@@ -1,4 +1,3 @@
-# changed to unix style
 sudo: true
 os: trusty
 cache: false
